@@ -1,0 +1,2 @@
+def remove_bracketed_vo_notes(text, brackets ="[]"):
+  count = [0] * (len(brackets) // 2)
