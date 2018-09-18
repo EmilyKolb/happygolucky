@@ -8,6 +8,7 @@ from tkinter import simpledialog
 
 #to do: err toward keeping in slate
 #to do: check messed up descriptions
+#to do: handling subtitles?
 
 def changewordstodigits(text):
 
