@@ -1,16 +1,3 @@
-
-#Emily Kolb kolb0148
-#I understand this is a graded, individual examination that may not be
-#discussed with anyone. I also understand that obtaining solutions or
-#partial solutions from outside sources, or discussing any aspect of the exam
-#with anyone is academic misconudct and will result in failing the course.
-#I further certify that this program represents my own work and that none of
-#it was obtained from any other souce than material presented as part of the
-#course.
-
-
-
-
 import turtle
 import random
 import math
