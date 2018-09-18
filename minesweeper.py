@@ -1,20 +1,4 @@
-# Emily Kolb kolb0148
 
-# I understand this is a graded, individual examination that may not be
-# discussed with anyone. I also understand that obtaining solutions or
-# partial solutions from outside sources, or discussing any aspect of the exam
-# with anyone is academic misconudct and will result in failing the course.
-# I further certify that this program represents my own work and that none of
-# it was obtained from any other souce than material presented as part of the
-# course.
-
-
-"""Hi, grader! When I ran this (through vole) on the CSE machines, it did look different than my home computer,
-but everything works just fine, it just might display differently - some of my fine tuning for the graphics might not be reflected
-in the program. But everything works. I also have my board so that's it's scalable - I'm not sure if that was necessary
-and if it perhaps conflicted with some of the constraints of the assignment in a less than perfect way - like I might
-have used different arguments, etc than were allowed considering this feature. Again, everything should work just fine,
-I'm just explaining some of my choices... Anwyway, enjoy and I hope you're not sick of playing minesweeper yet! """
 import turtle
 import random
 
